@@ -13,3 +13,19 @@
       padding: 20px;
       border-radius: 10px;
     }
+    section {
+      background-color: #ffffff;
+      width: 500px;
+      padding: 20px;
+      margin: 20px auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      color: #1f2d3d;
+    }
+    p, ul {
+      color: #333;
+      text-align: left;
+    }
